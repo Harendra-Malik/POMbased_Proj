@@ -1,5 +1,7 @@
 package com.hsm.pageObjects;
 
-public class LoginPage {
+import com.hsm.testCases.BaseTest;
+
+public class LoginPage extends BaseTest {
 
 }
